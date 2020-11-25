@@ -34,5 +34,5 @@ function Angkot ( sopir, trayek , penumpang , kas ) {
 
 }
 
-var angkot1 = new Angkot("budi",['manga dua' , 'mangga tiga'],[],0);
+var angkot1 = new Angkot("budi",['mangga dua' , 'mangga tiga'],[],0);
 
